@@ -1,6 +1,6 @@
 # AI Hedge Fund
 
-The goal of this project is to explore the use of AI to make trading decisions.
+The goal of this project is to do live trading using AI to make decisions.
 
 This system employs several agents working together:
 
